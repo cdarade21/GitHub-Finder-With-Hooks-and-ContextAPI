@@ -1,3 +1,20 @@
+Hosted on: https://chaitanya-darade-github-finder-app.netlify.app
+
+Create Folder:
+npm init
+npm install
+npm uninstall -g create-react-app
+npx create-react-app .
+
+Run Command:
+npm start
+
+Installation Commands:
+npm i axios
+npm i react-router-dom
+npm i -g netlify-cli 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
